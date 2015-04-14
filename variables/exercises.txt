@@ -1,0 +1,4 @@
+5. prints 3 
+   gives error since x is not defined in the scope
+   
+6. the variable 'shoes' is undefined in the program, or outside the scope
