@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-04-16T10:57:12+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/16/0257203/the-car-that-knows-when-youll-get-in-an-accident-before-you-do?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/15/231211/google-responds-to-eu-antitrust-claims-in-android-blog-post?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/15/2254253/spitzer-space-telescope-finds-new-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/15/2156203/nuclear-fusion-simulator-among-software-picked-for-uss-summit-supercomputer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/15/2128255/longer-video-shows-how-incredibly-close-falcon-stage-came-to-successful-landing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/15/2134258/indias-net-neutrality-campaign-picks-up-steam-sites-withdraw-from-internetorg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/15/2143257/gyro-copter-lands-on-west-lawn-of-us-capitol-pilot-arrested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/15/1945208/why-designed-for-security-is-a-dubious-designation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/15/1941243/the-crazy-tiny-next-generation-of-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/15/1812230/how-brain-pacemakers-treat-parkinsons-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/15/1758245/chinese-ninebot-buys-us-rival-segway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/15/179216/magician-turned-professor-talks-about-the-math-behind-shuffling-cards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/15/1652210/mit-celebrates-10-years-of-scigen-bogus-compsci-paper-generator-with-new-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/15/1549249/nvidias-new-gpus-are-very-open-source-unfriendly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/15/1437211/gao-warns-faa-of-hacking-threat-to-airliners?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://tech.slashdot.org/story/15/04/16/0257203/the-car-that-knows-when-youll-get-in-an-accident-before-you-do?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Car That Knows When You'll Get In an Accident Before You Do</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5nwVEM-3NhM/the-car-that-knows-when-youll-get-in-an-accident-before-you-do</link>
+<description>aurtherdent2000 sends word about a system designed to monitor drivers to determine when they're about to do something wrong. "I'm behind the wheel of the car of the future. It's a gray Toyota Camry, but it has a camera pointed at me from the corner of the windshield recording my every eye movement, a GPS tracker, an outside-facing camera and a speed logger. It sees everything I'm doing so it can predict what I'm going to do behind the wheel seconds before I do it. So when my eyes glance to the left, it could warn me there's a car between me and the exit I want to take. A future version of the software will know even more about me; the grad students developing what they&amp;rsquo;ve dubbed Brains4Cars plan to let drivers connect their fitness trackers to the car. If your health tracker 'knows' you haven&amp;rsquo;t gotten enough sleep, the car will be more alert to your nodding off."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Car+That+Knows+When+You'll+Get+In+an+Accident+Before+You+Do%3A+http%3A%2F%2Fbit.ly%2F1J63PIB"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F16%2F0257203%2Fthe-car-that-knows-when-youll-get-in-an-accident-before-you-do%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/16/0257203/the-car-that-knows-when-youll-get-in-an-accident-before-you-do?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/16/0257203/the-car-that-knows-when-youll-get-in-an-accident-before-you-do?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7264677&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5nwVEM-3NhM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-16T09:36:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>keep-your-eyes-on-the-road-your-hands-upon-the-wheel</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,32,15,11,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/16/0257203/the-car-that-knows-when-youll-get-in-an-accident-before-you-do?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/15/231211/google-responds-to-eu-antitrust-claims-in-android-blog-post?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Responds To EU Antitrust Claims In Android Blog Post</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gTNBPKYWIoA/google-responds-to-eu-antitrust-claims-in-android-blog-post</link>
+<description>An anonymous reader writes Earlier today the European Union released a Statement of Objection against Google, asserting that the search giant's dominance violating antitrust rules and Android products hindering equal opportunities for market access among its rivals. Google has now released an official blog post in response to the Commission's proposed investigation. Regarding its Android devices, Hiroshi Lockheimer, VP of Engineering at Android writes: "The European Commission has asked questions about our partner agreements. It's important to remember that these are voluntary&amp;mdash;again, you can use Android without Google&amp;mdash;but provide real benefits to Android users, developers and the broader ecosystem." He continues: "We are thankful for Android's success and we understand that with success comes scrutiny. But it's not just Google that has benefited from Android's success. The Android model has let manufacturers compete on their unique innovations [...] We look forward to discussing these issues in more detail with the European Commission over the months ahead."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Responds+To+EU+Antitrust+Claims+In+Android+Blog+Post%3A+http%3A%2F%2Fbit.ly%2F1Hw83uU"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F15%2F231211%2Fgoogle-responds-to-eu-antitrust-claims-in-android-blog-post%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/15/231211/google-responds-to-eu-antitrust-claims-in-android-blog-post?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/15/231211/google-responds-to-eu-antitrust-claims-in-android-blog-post?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7264197&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gTNBPKYWIoA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-16T07:06:00+00:00</dc:date>
+<dc:subject>eu</dc:subject>
+<slash:department>wait-a-minute</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>66</slash:comments>
+<slash:hit_parade>66,64,37,26,8,3,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/15/231211/google-responds-to-eu-antitrust-claims-in-android-blog-post?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/15/2254253/spitzer-space-telescope-finds-new-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Spitzer Space Telescope Finds New Planet</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DxABFWOVHPI/spitzer-space-telescope-finds-new-planet</link>
+<description>Aspiring Astronomer sends word of the discovery of one of the farthest known exoplanets. NASA's Spitzer Space Telescope has teamed up with a telescope on the ground to find a remote gas planet about 13,000 light-years away, making it one of the most distant planets known. The discovery demonstrates that Spitzer -- from its unique perch in space -- can be used to help solve the puzzle of how planets are distributed throughout our flat, spiral-shaped Milky Way galaxy. Are they concentrated heavily in its central hub, or more evenly spread throughout its suburbs? 'We don't know if planets are more common in our galaxy's central bulge or the disk of the galaxy, which is why these observations are so important,' said Jennifer Yee of the Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts, and a NASA Sagan fellow. Yee is the lead author of one of three new studies that appeared recently in the Astrophysical Journal describing a collaboration between astronomers using Spitzer and the Polish Optical Gravitational Lensing Experiment, or OGLE."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Spitzer+Space+Telescope+Finds+New+Planet%3A+http%3A%2F%2Fbit.ly%2F1D5rZyu"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F15%2F2254253%2Fspitzer-space-telescope-finds-new-planet%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/15/2254253/spitzer-space-telescope-finds-new-planet?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/15/2254253/spitzer-space-telescope-finds-new-planet?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7264189&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DxABFWOVHPI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-16T04:28:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>I-see-you</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,5,3,2,1,1,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/15/2254253/spitzer-space-telescope-finds-new-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/15/2156203/nuclear-fusion-simulator-among-software-picked-for-uss-summit-supercomputer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Nuclear Fusion Simulator Among Software Picked For US's Summit Supercomputer</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1hKHOxWs3z8/nuclear-fusion-simulator-among-software-picked-for-uss-summit-supercomputer</link>
+<description>An anonymous reader writes Today, The Register has learned of 13 science projects approved by boffins at the US Department of Energy to run on the 300-petaFLOPS Summit. These software packages, selected for the Center for Accelerated Application Readiness (CAAR) program, will be ported to the massive parallel machine, and are hoped to make full use of the supercomputer's architecture.They range from astrophysics, biophysics, chemistry, and climate modeling to combustion engineering, materials science, nuclear physics, plasma physics and seismology.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Nuclear+Fusion+Simulator+Among+Software+Picked+For+US's+Summit+Supercomputer%3A+http%3A%2F%2Fbit.ly%2F1GMheIh"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F15%2F2156203%2Fnuclear-fusion-simulator-among-software-picked-for-uss-summit-supercomputer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/15/2156203/nuclear-fusion-simulator-among-software-picked-for-uss-summit-supercomputer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/15/2156203/nuclear-fusion-simulator-among-software-picked-for-uss-summit-supercomputer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7264117&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1hKHOxWs3z8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-16T01:56:00+00:00</dc:date>
+<dc:subject>supercomputing</dc:subject>
+<slash:department>how-about-a-nice-game-of-chess</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,37,12,8,3,1,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/15/2156203/nuclear-fusion-simulator-among-software-picked-for-uss-summit-supercomputer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/15/2128255/longer-video-shows-how-incredibly-close-falcon-stage-came-to-successful-landing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Longer Video Shows How Incredibly Close Falcon Stage Came To Successful Landing</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/M246N9bjrdI/longer-video-shows-how-incredibly-close-falcon-stage-came-to-successful-landing</link>
+<description>Bruce Perens writes In the video here, the Falcon 9 first stage is shown landing with a tilt, and then a thruster keeps the rocket vertical on the barge for a few seconds before it quits, followed by Kabooom with obvious significant damage to the barge. It looks like this attempt was incredibly close to success. Given fixes, a successful first-stage recovery seems likely.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Longer+Video+Shows+How+Incredibly+Close+Falcon+Stage+Came+To+Successful+Landing%3A+http%3A%2F%2Fbit.ly%2F1FUzbS3"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F15%2F2128255%2Flonger-video-shows-how-incredibly-close-falcon-stage-came-to-successful-landing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/15/2128255/longer-video-shows-how-incredibly-close-falcon-stage-came-to-successful-landing?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/15/2128255/longer-video-shows-how-incredibly-close-falcon-stage-came-to-successful-landing?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7264057&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/M246N9bjrdI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T23:45:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>close-but-no-cigar</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>227</slash:comments>
+<slash:hit_parade>227,225,172,148,44,19,8</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/15/2128255/longer-video-shows-how-incredibly-close-falcon-stage-came-to-successful-landing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/15/2134258/indias-net-neutrality-campaign-picks-up-steam-sites-withdraw-from-internetorg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>India's Net Neutrality Campaign Picks Up Steam, Sites Withdraw From Internet.org</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3DCbfzT1StY/indias-net-neutrality-campaign-picks-up-steam-sites-withdraw-from-internetorg</link>
+<description>First time accepted submitter arvin (916235) writes The Huffington Post reports on prominent Indian websites withdrawing from Facebook's internet.org initiative. The net neutrality debate in the country has focused on zero-rating, where ISPs offer a free data plan which provides access to a set of websites that pay to be included. Internet.org provides free access to Facebook, Bing, Wikipedia and a few other websites. Another similar service, Airtel Zero, lost its flagship partner as e-commerce company Flipkart withdrew following a social media backlash. Net neutrality activists believe that as these plans proliferate, access to the open internet will become extremely expensive or unavailable, innovation will slow as for startups are prevented from reaching the market, and the competitive consumer ISP market will be replaced with a cartel negotiating against internet companies. In a campaign similar to that in the US, over 630,000 Indians sent responses to their regulator through the website savetheinternet.in.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=India's+Net+Neutrality+Campaign+Picks+Up+Steam%2C+Sites+Withdraw+From+Internet.org%3A+http%3A%2F%2Fbit.ly%2F1J4AMoW"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F15%2F2134258%2Findias-net-neutrality-campaign-picks-up-steam-sites-withdraw-from-internetorg%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/15/2134258/indias-net-neutrality-campaign-picks-up-steam-sites-withdraw-from-internetorg?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/15/2134258/indias-net-neutrality-campaign-picks-up-steam-sites-withdraw-from-internetorg?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7264075&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3DCbfzT1StY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T23:01:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>leaving-the-ship</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,47,34,24,3,1,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/15/2134258/indias-net-neutrality-campaign-picks-up-steam-sites-withdraw-from-internetorg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/15/2143257/gyro-copter-lands-on-west-lawn-of-us-capitol-pilot-arrested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Gyro-Copter Lands On West Lawn of US Capitol, Pilot Arrested</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mRa717HPu0Y/gyro-copter-lands-on-west-lawn-of-us-capitol-pilot-arrested</link>
+<description>An anonymous reader writes that Doug Hughes, 61, a mailman from Ruskin, Florida was arrested for landing a gyro-copter on the West Lawn of the U.S. Capitol. "A 61-year-old Florida mailman was arrested Wednesday after he landed a gyrocopter on the U.S. Capitol west lawn. The gyrocopter was carrying the pilot and 535 stamped letters for members of Congress urging 'real reform' to campaign finance laws. Doug Hughes told the Tampa Bay Times ahead of the afternoon stunt that he notified authorities 'well over an hour in advance of getting to the no-fly zone, so they know who I am and what I'm doing.' Capitol police sent dogs and a bomb squad to the scene. Nothing hazardous was found. A city block from the Capitol had been cordoned off."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Gyro-Copter+Lands+On+West+Lawn+of+US+Capitol%2C+Pilot+Arrested%3A+http%3A%2F%2Fbit.ly%2F1PPhzwC"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F15%2F2143257%2Fgyro-copter-lands-on-west-lawn-of-us-capitol-pilot-arrested%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/15/2143257/gyro-copter-lands-on-west-lawn-of-us-capitol-pilot-arrested?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/15/2143257/gyro-copter-lands-on-west-lawn-of-us-capitol-pilot-arrested?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7264095&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mRa717HPu0Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T22:17:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>just-mail-your-taxes-next-time</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>210</slash:comments>
+<slash:hit_parade>210,206,147,124,33,20,8</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/15/2143257/gyro-copter-lands-on-west-lawn-of-us-capitol-pilot-arrested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/15/1945208/why-designed-for-security-is-a-dubious-designation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why "Designed For Security" Is a Dubious Designation</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4oQSoEtXVUE/why-designed-for-security-is-a-dubious-designation</link>
+<description>itwbennett writes The list of products designed to be security enhanced that turned out to be anything but seems to get longer by the day. In just the latest instance, reported by Wired last week, the crowd-funded privacy-enhancing home router Anonabox had to be recalled after an independent researcher discovered serious security flaws in the product. But security experts caution that the real problem may be bigger than vulnerabilities hidden in application code: "Designed for security products don't just have to be good. They have to be beyond reproach," explains John Dickson, a Principal at the Denim Group. "All it takes is one guy with a grudge to undo you."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+%22Designed+For+Security%22+Is+a+Dubious+Designation%3A+http%3A%2F%2Fbit.ly%2F1zhGfDn"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F15%2F1945208%2Fwhy-designed-for-security-is-a-dubious-designation%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/15/1945208/why-designed-for-security-is-a-dubious-designation?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/15/1945208/why-designed-for-security-is-a-dubious-designation?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7263841&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4oQSoEtXVUE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T21:30:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>protect-ya-neck</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,46,24,19,5,1,0</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/15/1945208/why-designed-for-security-is-a-dubious-designation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/15/1941243/the-crazy-tiny-next-generation-of-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Crazy-Tiny Next Generation of Computers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fx8jqP7HqNI/the-crazy-tiny-next-generation-of-computers</link>
+<description>An anonymous reader writes University of Michigan professors are about to release the design files for a one-cubic-millimeter computer, or mote. They have finally reached a goal set in 1997, when UC Berkeley professor Kristopher Pister coined the term "smart dust" and envisioned computers blanketing the Earth. Such motes are likely to play a key role in the much-ballyhooed Internet of Things. From the article: "When Prabal Dutta accidentally drops a computer, nothing breaks. There&amp;rsquo;s no crash. The only sound you might hear is a prolonged groan. That&amp;rsquo;s because these computers are just one cubic millimeter in size, and once they hit the floor, they&amp;rsquo;re gone. 'We just lose them,' Dutta says. 'It&amp;rsquo;s worse than jewelry.' To drive the point home, Dutta, an assistant professor of electrical engineering at the University of Michigan, emails me a photo of 50 of these computers. They barely fill a thimble halfway to its brim."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Crazy-Tiny+Next+Generation+of+Computers%3A+http%3A%2F%2Fbit.ly%2F1HuhOd2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F15%2F1941243%2Fthe-crazy-tiny-next-generation-of-computers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/15/1941243/the-crazy-tiny-next-generation-of-computers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/15/1941243/the-crazy-tiny-next-generation-of-computers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7263831&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fx8jqP7HqNI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T20:46:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>getting-small</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>88</slash:comments>
+<slash:hit_parade>88,87,53,50,15,7,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/15/1941243/the-crazy-tiny-next-generation-of-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/15/1812230/how-brain-pacemakers-treat-parkinsons-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How Brain Pacemakers Treat Parkinson's Disease</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/F5nSLubLEZU/how-brain-pacemakers-treat-parkinsons-disease</link>
+<description>the_newsbeagle writes Pharmaceutical research for neuropsychiatric disorders hasn't produced many breakthroughs lately, which may explain why there's so much excitement around "electroceutical" research. That buzzy new field encompasses deep brain stimulation (DBS), in which an implanted stimulator sends little jolts through the neural tissue. DBS has become an accepted therapy for Parkinson's and other motor disorders, even though researchers haven't really understood how it works. Now, new research may have found the mechanism of action in Parkinson's patients: The stimulation reduces an exaggerated synchronization of neuron activity in the motor cortex.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+Brain+Pacemakers+Treat+Parkinson's+Disease%3A+http%3A%2F%2Fbit.ly%2F1POzUd4"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F15%2F1812230%2Fhow-brain-pacemakers-treat-parkinsons-disease%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/15/1812230/how-brain-pacemakers-treat-parkinsons-disease?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/15/1812230/how-brain-pacemakers-treat-parkinsons-disease?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7263651&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/F5nSLubLEZU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T20:03:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>keeping-it-under-control</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,19,15,11,6,4,3</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/15/1812230/how-brain-pacemakers-treat-parkinsons-disease?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/15/1758245/chinese-ninebot-buys-us-rival-segway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Chinese Ninebot Buys US Rival Segway</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WFoVF6sJ2QU/chinese-ninebot-buys-us-rival-segway</link>
+<description>An anonymous reader writes Xiaomi-backed startup Ninebot, a Chinese maker of electric-powered personal transportation products, has acquired U.S. rival Segway &amp;ndash; the two-wheeler upright scooter which has become a running joke, synonymous with various comedic appearances (such as in U.S. sitcom Arrested Development and the 2009 comedy Paul Blart: Mall Cop), and the death of its owner at the hands of an unfortunate Segway-induced cliff fall. However Gao Lufeng, chief executive, still recognizes the potential of the Segway and has bought the U.S. company for an undisclosed amount. Lufeng confirmed that Ninebot had also secured $80mn in funding from Xiaomi and venture capital firm Sequoia Capital.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Chinese+Ninebot+Buys+US+Rival+Segway%3A+http%3A%2F%2Fbit.ly%2F1COzzgc"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F15%2F1758245%2Fchinese-ninebot-buys-us-rival-segway%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/15/1758245/chinese-ninebot-buys-us-rival-segway?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/15/1758245/chinese-ninebot-buys-us-rival-segway?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7263629&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/WFoVF6sJ2QU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T19:20:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>lean-into-it</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>108</slash:comments>
+<slash:hit_parade>108,104,73,59,22,7,3</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/15/1758245/chinese-ninebot-buys-us-rival-segway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/15/179216/magician-turned-professor-talks-about-the-math-behind-shuffling-cards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Magician Turned Professor Talks About the Math Behind Shuffling Cards</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sSlyQz0Z6Ms/magician-turned-professor-talks-about-the-math-behind-shuffling-cards</link>
+<description>An anonymous reader writes with this story about magician and professor of mathematics and statistics at Stanford University Persi Diaconis. "Now a professor of mathematics and statistics at Stanford University, Diaconis has employed his intuition about cards, which he calls 'the poetry of magic,' in a wide range of settings. Once, for example, he helped decode messages passed between inmates at a California state prison by using small random 'shuffles' to gradually improve a decryption key. He has also analyzed Bose-Einstein condensation &amp;mdash; in which a collection of ultra-cold atoms coalesces into a single 'superatom' &amp;mdash; by envisioning the atoms as rows of cards moving around. This makes them 'friendly,' said Diaconis, whose speech still carries the inflections of his native New York City. 'We all have our own basic images that we translate things into, and for me cards were where I started.' In 1992, Diaconis famously proved &amp;mdash; along with the mathematician Dave Bayer of Columbia University &amp;mdash; that it takes about seven ordinary riffle shuffles to randomize a deck. Over the years, Diaconis and his students and colleagues have successfully analyzed the effectiveness of almost every type of shuffle people use in ordinary life."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Magician+Turned+Professor+Talks+About+the+Math+Behind+Shuffling+Cards%3A+http%3A%2F%2Fbit.ly%2F1zhelYk"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F15%2F179216%2Fmagician-turned-professor-talks-about-the-math-behind-shuffling-cards%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/15/179216/magician-turned-professor-talks-about-the-math-behind-shuffling-cards?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/15/179216/magician-turned-professor-talks-about-the-math-behind-shuffling-cards?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7263519&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sSlyQz0Z6Ms" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T18:36:00+00:00</dc:date>
+<dc:subject>math</dc:subject>
+<slash:department>nothing-up-my-sleeve</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,55,34,24,11,5,4</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/15/179216/magician-turned-professor-talks-about-the-math-behind-shuffling-cards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/15/1652210/mit-celebrates-10-years-of-scigen-bogus-compsci-paper-generator-with-new-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>MIT Celebrates 10 Years of SCIgen Bogus CompSci Paper Generator With New Tool</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EFGtfGEaCYo/mit-celebrates-10-years-of-scigen-bogus-compsci-paper-generator-with-new-tool</link>
+<description>alphadogg writes Three MIT grads this week are celebrating the 10th anniversary of their clever SCIgen program, which randomly generates computer science papers realistic enough to get accepted by sketchy technical conferences and publishers, with a brand new tool designed to poke even more fun at such outfits. Just a bit late for April Fool's Day, the new SCIpher program from the MIT Computer Science and Artificial Intelligence Lab alums enables users to hide messages inside randomly-generated calls for papers from phony conferences whose names are so ridiculous that they sound legit. An MIT spokesman says the new tool is really just a way for geeky friends to mess with each other, whereas SCIgen pointed out major flaws in the worlds of scientific journals and conferences.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=MIT+Celebrates+10+Years+of+SCIgen+Bogus+CompSci+Paper+Generator+With+New+Tool%3A+http%3A%2F%2Fbit.ly%2F1b3yN9G"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F15%2F1652210%2Fmit-celebrates-10-years-of-scigen-bogus-compsci-paper-generator-with-new-tool%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/15/1652210/mit-celebrates-10-years-of-scigen-bogus-compsci-paper-generator-with-new-tool?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/15/1652210/mit-celebrates-10-years-of-scigen-bogus-compsci-paper-generator-with-new-tool?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7263425&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EFGtfGEaCYo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-15T17:52:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>making-it-all-up</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>13</slash:comments>
+<slash:hit_parade>13,12,7,6,3,2,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/15/1652210/mit-celebrates-10-years-of-scigen-bogus-compsci-paper-generator-with-new-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/15/1549249/nvidias-new-gpus-are-very-open-source-unfriendly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NVIDIA's New GPUs Are Very Open-Source Unfriendly</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Eo8cqphXfjI/nvidias-new-gpus-are-very-open-source-unfriendly</link>
+<description>An anonymous reader writes: The Nouveau driver developers working on open-source support for the GeForce 900 Maxwell graphics cards have found this new generation to be "very open-source unfriendly" and restricting. NVIDIA began requiring signed firmware images, which they have yet to provide to Nouveau developers, contrary to their earlier statements. The open-source developers have also found their firmware signing to go beyond just simple security precautions. For now the open-source NVIDIA driver can only enable displays with the GTX 900 series without any hardware acceleration.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NVIDIA's+New+GPUs+Are+Very+Open-Source+Unfriendly%3A+http%3A%2F%2Fbit.ly%2F1ILdkAn"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F15%2F1549249%2Fnvidias-new-gpus-are-very-open-source-unfriendly%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/15/1549249/nvidias-new-gpus-are-very-open-source-unfriendly?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/15/1549249/nvidias-new-gpus-are-very-open-source-unfriendly?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7263227&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Eo8cqphXfjI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-15T17:09:00+00:00</dc:date>
+<dc:subject>graphics</dc:subject>
+<slash:department>returning-to-par</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>266</slash:comments>
+<slash:hit_parade>266,250,148,129,28,13,11</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/15/1549249/nvidias-new-gpus-are-very-open-source-unfriendly?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/15/1437211/gao-warns-faa-of-hacking-threat-to-airliners?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>GAO Warns FAA of Hacking Threat To Airliners</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YlX6QsWVQoE/gao-warns-faa-of-hacking-threat-to-airliners</link>
+<description>chicksdaddy writes: A report from the Government Accountability Office (GAO) warns that the U.S. Federal Aviation Administration may be failing to address cyber security vulnerabilities that could allow remote attacks on avionics systems needed to keep the plane airborne. In a report issued Tuesday (PDF), the GAO said, "significant security-control weaknesses remain that threaten the agency's ability to ensure the safe and uninterrupted operation of the national airspace system." Among those: a lack of clear certification for aircraft airworthy readiness that encompasses cyber security protections. That lapse could allow planes to fly with remotely exploitable vulnerabilities that could affect aircraft controls and guidance systems. The GAO report did not provide details of any specific vulnerability affecting any specific aircraft. Rather, GAO cited FAA personnel and experts, saying that the possibility exists that "unauthorized individuals might access and compromise aircraft avionics systems," in part by moving between Internet-connected in-flight entertainment systems and critical avionics systems in the aircraft cabin. Security researchers have long warned that hackers could jump from in-flight entertainment systems in the passenger cabin to cockpit avionics systems if airlines did not take proper precautions, such as so-called "air gapping" the networks. At last year's Black Hat Briefings, researcher Ruben Santamarta of IOActive demonstrated a method of hacking the satellite communications equipment on passenger jets through their WiFi and inflight entertainment systems.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=GAO+Warns+FAA+of+Hacking+Threat+To+Airliners%3A+http%3A%2F%2Fbit.ly%2F1OBN3F5"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F15%2F1437211%2Fgao-warns-faa-of-hacking-threat-to-airliners%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/15/1437211/gao-warns-faa-of-hacking-threat-to-airliners?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/15/1437211/gao-warns-faa-of-hacking-threat-to-airliners?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7262985&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/YlX6QsWVQoE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-15T16:27:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>not-agile-enough-to-respond</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,66,42,37,13,7,7</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/15/1437211/gao-warns-faa-of-hacking-threat-to-airliners?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
